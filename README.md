@@ -1,7 +1,7 @@
 ### Hi, I'm Amiyah 👋🏽
 
-- 🔭 I’m currently working on a Django website and an extension for Google Chrome.
-- 🌱 Right now I'm learning C, Javascript, Linux, Operating Systems, and Git.
+- 🔭 I’m currently working on a portfolio website.
+- 🌱 Right now I'm learning C, C++, HTML, and CSS.
 - ❤️ I like RPGs, fantasy novels, playing piano, and creating somethings from nothings.
-- 🎮 Currently playing Larian Studios's *Baldur's Gate III* and watching Marvel's *The Falcon & the Winter Soldier*.
+- 🎮 Currently playing Larian Studios's *Mass Effect: Legendary Edition* and watching Marvel's *The Bad Batch*.
 - 📱  You can [find me on twitter.](https://twitter.com/amiyahfrierson)
